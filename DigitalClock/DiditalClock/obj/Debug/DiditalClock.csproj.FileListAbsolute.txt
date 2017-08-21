@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\bin\Debug\DiditalClock.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\bin\Debug\DiditalClock.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\bin\Debug\DiditalClock.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.Form1.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\DiditalClock\DiditalClock\obj\Debug\DiditalClock.pdb
